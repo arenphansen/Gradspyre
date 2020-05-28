@@ -1,5 +1,9 @@
 {
-    "webcredentials": {
-       "apps": [ "RPSA8YWG65.com.arenphansen.lcc.Gradspyre" ]
-    }
+"appLinks": {
+    "apps": [],
+    "details": [{}]
+},
+"webcredentials": {
+    "apps": [ "RPSA8YWG65.com.arenphansen.lcc.Gradspyre" ]
+}
 }
