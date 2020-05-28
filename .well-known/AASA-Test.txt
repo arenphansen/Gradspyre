@@ -1,0 +1,3 @@
+This is an Apple App Site Association /.well-known/ folder verification file.
+
+Domain: app.gradspyre.com
